@@ -2,8 +2,8 @@
 
 ## How to run
 
+- Configure .env with variables
 ```
-Configure .env with variables
 npm run dev
-Use postMan to send file with form-data and choose file on Key parameter.
 ```
+- Use postMan to send file with form-data and choose file on Key parameter.
